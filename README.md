@@ -1,2 +1,2 @@
-# blog-flask
+# flaskBlog
 Flask web development: developing web applications with python
